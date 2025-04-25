@@ -24,7 +24,7 @@ A lightweight Spring Boot-based **live key-value map API**. Designed for local d
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/HashMapLive.git
+git clone https://github.com/Onlyriley/HashMapLive.git
 cd HashMapLive
 ```
 
